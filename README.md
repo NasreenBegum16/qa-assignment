@@ -1,22 +1,29 @@
 🧪 QA Assignment
-This repository contains the submission for my QA (Quality Assurance) Assignment.
+This repository contains my submission for the QA Testing & Debugging Assignment given by KraftPixel.
 
-📄 Contents
-📁 screenshots/ – Contains screenshots of testing, bugs (if any), or result evidence.
+🔍 Task Overview
+The task involved identifying UI/UX and functional bugs from the following web pages:
 
-📄 Bug_Report.pdf – Main test document with test cases, test results, and tool details.
+🔗 Angel One - Reliance Industries Stock Page - https://www.angelone.in/stocks/reliance-industries-ltd
 
-📝 README.md – Project description and instructions.
+🔗 India Infoline News Page - https://www.indiainfoline.com/news
 
-🛠 Tools Used
-Manual Testing Techniques
+🛠 Skills Demonstrated
+QA Testing
 
-✅ How to Use
-Clone the repository or download the ZIP.
+Bug Identification & Debugging
 
-Open the Bug_Report.pdf to view the test plan and results.
+Attention to UI/UX details
 
-Open the screenshots/ folder to see supporting evidence/screenshots.
+Time-bound task execution
 
-📎 Document Link (if shared as Google Doc)
-https://github.com/NasreenBegum16/qa-assignment/blob/master/Bug_Report.pdf
+📌 Submission Guidelines Followed
+Task completed in 1 hour
+
+Screen recording done while testing
+
+Google Doc/Sheet shared to the required emails
+
+Files downloaded and compressed into a ZIP
+
+Video uploaded as Unlisted on YouTube
